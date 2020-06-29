@@ -1,3 +1,3 @@
 # Molecule
-Molecule corporation @Kumbirai Dzvairo
+Molecule corporation
 Upload description page template
